@@ -12,6 +12,6 @@ public class HomeController {
     @GetMapping
     ResponseEntity<?> hello() {
         return ResponseEntity.status(HttpStatus.OK)
-                .body("Hello");
+                .body("Helloo");
     }
 }
