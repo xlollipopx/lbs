@@ -1,0 +1,8 @@
+{
+  "name": "twofactor",
+  "buildpacks": [
+    {
+      "url": "heroku/gradle"
+    }
+  ]
+}
